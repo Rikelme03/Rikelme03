@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Rikelme Silva</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar soluções com <strong>React</strong> e <strong>ASP.NET</strong> 💻<br/>
+  Desenvolvedor empenhado em criar soluções com <strong>React</strong> e <strong>ASP.NET</strong> 💻<br/>
   Aprendendo e evoluindo todos os dias 🚀<br/>
 </p>
 

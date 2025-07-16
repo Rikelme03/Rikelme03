@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Rikelme Silva</h1>
+<h1 align="center">👋 Olá, eu sou o Rikelme </h1>
 
 <p align="center">
   Desenvolvedor empenhado em criar soluções com <strong>React</strong> e <strong>ASP.NET</strong> 💻<br/>

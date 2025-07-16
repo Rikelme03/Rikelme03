@@ -33,6 +33,12 @@
 
 ---
 
+### 🐍 Snake Animation
+
+![Snake animation](https://github.com/Rikelme03/Rikelme03/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### ✉️ Contato
 
 - 📧 Email: 12rikelmessilva02@gmail.com
